@@ -30,3 +30,4 @@ hello-spring-cloud-eureka/
 hello-spring-cloud-service-consumer/
 hello-spring-cloud-service-produce/
 hello-spring-cloud-zipkin/target/generated-sources/
+hello-spring-cloud-zipkin/target/classes/application.yml
