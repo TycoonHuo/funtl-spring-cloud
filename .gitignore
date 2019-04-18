@@ -3,6 +3,7 @@
 # Compiled class file
 *.class
 
+
 # Log file
 *.log
 
@@ -23,3 +24,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/
+hello-spring-cloud-deps/.idea/
+hello-spring-cloud-eureka/target/classes/application.yml
+hello-spring-cloud-eureka/target/generated-sources/
+hello-spring-cloud-service-consumer/target/classes/application.yml
+hello-spring-cloud-service-consumer/target/generated-sources/
+hello-spring-cloud-service-produce/target/classes/application.yml
+hello-spring-cloud-service-produce/target/generated-sources/
+hello-spring-cloud-zipkin/target/classes/application.yml
+hello-spring-cloud-zipkin/target/generated-sources/
