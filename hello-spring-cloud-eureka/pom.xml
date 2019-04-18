@@ -13,19 +13,12 @@
     <artifactId>hello-spring-cloud-eureka</artifactId>
     <packaging>jar</packaging>
 
-    <name>hello-spring-cloud-eureka</name>
-    <url>http://www.funtl.com</url>
-    <inceptionYear>2018-Now</inceptionYear>
 
     <dependencies>
-
-        <!-- Spring Boot Begin -->
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-zipkin</artifactId>
         </dependency>
-        <!-- Spring Boot End -->
 
         <!-- Spring Cloud Begin -->
         <dependency>
